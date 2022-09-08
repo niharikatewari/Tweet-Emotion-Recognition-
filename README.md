@@ -53,4 +53,4 @@ The dataset should be used for educational and research purposes only. If you us
 }
 
 # Research Opportunities
-We are expanding this dataset to include more languages. If you would like to know more about this research project, feel free to reach out to me.
+This dataset is getting expanded to include more languages. If you would like to know more about this research project, feel free to reach out to me.
